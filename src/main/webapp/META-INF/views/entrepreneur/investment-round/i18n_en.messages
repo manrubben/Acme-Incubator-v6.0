@@ -1,0 +1,45 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+entrepreneur.investmentRound.list.label.title = Title
+entrepreneur.investmentRound.list.label.money = Money
+
+entrepreneur.investmentRound.form.label.ticker = Ticker:
+entrepreneur.investmentRound.form.label.creation = Creation:
+entrepreneur.investmentRound.form.label.round = Round:
+entrepreneur.investmentRound.form.label.title = Title:
+entrepreneur.investmentRound.form.label.description = Description:
+entrepreneur.investmentRound.form.label.money = Money:
+entrepreneur.investmentRound.form.label.link = Link:
+
+entrepreneur.investmentRound.error.mensajeRechazo = It is not possible to publish the investment round.
+
+entrepreneur.application.button.list = List applications
+entrepreneur.investment-round.form.button.create = Create
+entrepreneur.investment-round.form.button.update = Update
+entrepreneur.investment-round.form.button.delete = Delete
+entrepreneur.investmentRound.form.button.createAct = Create activity
+entrepreneur.investmentRound.form.button.listAct = List activities
+
+entrepreneur.investment-round.error.ticker-pattern = Ticker must adhere to the following pattern: XXX-12-123456
+entrepreneur.investment-round.error.money = Money must be set in euros
+entrepreneur.investment-round.error.round = Round must be: SEED, ANGEL, SERIES-A, SERIES-B, SERIES-C, or BRIDGE
+entrepreneur.investment-round.error.wrongSum = The money does not match the total budget of the activities
+entrepreneur.investment-round.error.delete = You can not delete an investment round with applications
+entrepreneur.investment-round.error.spam = Spam detected
+
+entrepreneur.investmentRound.form.label.round.seed = SEED
+entrepreneur.investmentRound.form.label.round.angel = ANGEL
+entrepreneur.investmentRound.form.label.round.seriesA = SERIES-A
+entrepreneur.investmentRound.form.label.round.seriesB = SERIES-B
+entrepreneur.investmentRound.form.label.round.seriesC = SERIES-C
+entrepreneur.investmentRound.form.label.round.bridge = BRIDGE
+
+entrepreneur.application.form.button.return = Return
